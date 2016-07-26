@@ -1,0 +1,10 @@
+header p {
+	position: relative;
+	display: inline-block;
+	font-size: 55px;
+	left: 33%;
+}
+
+.shot {
+	left: 20%;
+}
